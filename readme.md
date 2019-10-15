@@ -22,38 +22,37 @@
 
 输入马赛克后的图，输出: 
 
-```
-azxa rulx kwgjfuing tsclpt very cenvd
-allce was baqwxnxrg tsclpt very itnvd
-alzce was begjfuecg to gfl very xinvd
-aiice was kwypfasrg to ppt very itchd
-alzce was baqarbing to ppt very tjvnd
-aizce was baqwxnlng tsclpt very ztnnd
-alzce was bdzprwvcg to get very tjvnd
-alice was dauprbxrg to get very ssnnd
-alice was baupfavcg to get very tlvnd
-alice was bdzpnqrug to get very tjvnd
-alice was baupening to get very ssnvd
-alice was baupening to get very ztnvd
-alice was bauprbing to get very cuhcm
-alice was baqavwvcg to get very itnvd
-alice was baupnikrg to get very cenvd
-alice was baqynning to get very cennd
-alice was baupening to get very tjvnd
-alice was bauprbing to get very tjvnd
-alice was baqarbing to get very tinvd
-alice was begjfqrug to get very cennd
-alice was begjvning to get very vxynd
-alice was beginning to get very tjvnd
-alice was beginning to get very vznnd
-alice was beginning to get very ztred
-alice was beginning to get very ztred
-alice was beginning to get very ztred
-alice was beginning to get very tjvnd
-alice was beginning to get very tired
+> azxa rulx kwgjfuing tsclpt **very** cenvd  
+> allce **was** baqwxnxrg tsclpt **very** itnvd  
+> alzce **was** begjfuecg **to** gfl **very** xinvd  
+> aiice **was** kwypfasrg **to** ppt **very** itchd  
+> alzce **was** baqarbing **to** ppt **very** tjvnd  
+> aizce **was** baqwxnlng tsclpt **very** ztnnd  
+> alzce **was** bdzprwvcg **to** **get** **very** tjvnd  
+> **alice** **was** dauprbxrg **to** **get** **very** ssnnd  
+> **alice** **was** baupfavcg **to** **get** **very** tlvnd  
+> **alice** **was** bdzpnqrug **to** **get** **very** tjvnd  
+> **alice** **was** baupening **to** **get** **very** ssnvd  
+> **alice** **was** baupening **to** **get** **very** ztnvd  
+> **alice** **was** bauprbing **to** **get** **very** cuhcm  
+> **alice** **was** baqavwvcg **to** **get** **very** itnvd  
+> **alice** **was** baupnikrg **to** **get** **very** cenvd  
+> **alice** **was** baqynning **to** **get** **very** cennd  
+> **alice** **was** baupening **to** **get** **very** tjvnd  
+> **alice** **was** bauprbing **to** **get** **very** tjvnd  
+> **alice** **was** baqarbing **to** **get** **very** tinvd  
+> **alice** **was** begjfqrug **to** **get** **very** cennd  
+> **alice** **was** begjvning **to** **get** **very** vxynd  
+> **alice** **was** **beginning** **to** **get** **very** tjvnd  
+> **alice** **was** **beginning** **to** **get** **very** vznnd  
+> **alice** **was** **beginning** **to** **get** **very** ztred  
+> **alice** **was** **beginning** **to** **get** **very** ztred  
+> **alice** **was** **beginning** **to** **get** **very** ztred  
+> **alice** **was** **beginning** **to** **get** **very** tjvnd  
+> **alice** **was** **beginning** **to** **get** **very** **tired**  
 
 最终结果: alice was beginning to get very tired
-```
+
 
 这是马赛克之前的图片，内容完全一致: 
 
@@ -64,37 +63,38 @@ alice was beginning to get very tired
 ### 其他样例
 
 ![./测试结果/to-be.png](./测试结果/to-be.png)  
-```
-nsrlcccf nov tcrdv thocc m a pltnzish
-tsrirj h not to be thiw is a quescrpn
-tsrio vv not to be thue is a qusotion
-tsrio cf not to be thex is a quovsion
-tsrlcrur not to be thue is a qusovzon
-tscto cf not to be thex is a quskllzh
-tsrio vv not to be thex is a qlwstion
-tsctcccf not to be thue is a qusotion
-to be vv not to be thiw is a qutnzion
-to be or not to be thue is a qlwstion
-to be or not to be thsk is a qusotion
-to be or not to be that is a question
+
+> nsrlcccf nov tcrdv thocc m **a** pltnzish  
+> tsrirj h **not** **to** **be** thiw **is** **a** quescrpn  
+> tsrio vv **not** **to** **be** thue **is** **a** qusotion  
+> tsrio cf **not** **to** **be** thex **is** **a** quovsion  
+> tsrlcrur **not** **to** **be** thue **is** **a** qusovzon  
+> tscto cf **not** **to** **be** thex **is** **a** quskllzh  
+> tsrio vv **not** **to** **be** thex **is** **a** qlwstion  
+> tsctcccf **not** **to** **be** thue **is** **a** qusotion  
+> **to** **be** vv **not** **to** **be** thiw **is** **a** qutnzion  
+> **to** **be** **or** **not** **to** **be** thue **is** **a** qlwstion  
+> **to** **be** **or** **not** **to** **be** thsk **is** **a** qusotion  
+> **to** **be** **or** **not** **to** **be** **that** **is** **a** **question**  
+
 最终结果: to be or not to be that is a question
-```
 
 ![./测试结果/the-quick.png](./测试结果/the-quick.png)  
-```
-xhnz gtck brumx flk uegvu over nkcccouz bxg
-tnw upick bvrph flk jdanz over hxccczej bxg
-the upick brumx tnn jdjbs over the lsaj dog
-thcrjuick brumcrnck jakps over the isaj dog
-thcrjuick brodcrrlk jywbs over thnl jaj dog
-the quick brean tnn jdxps over thcrzuuz dog
-(输出较多，中间省略了50行)
-the quick bresh fox jumps over the lazy dog
-the quick brooh fox jumps over the lazy dog
-the quick bresh fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
+
+> xhnz gtck brumx flk uegvu **over** nkcccouz bxg  
+> tnw upick bvrph flk jdanz **over** hxccczej bxg  
+> **the** upick brumx tnn jdjbs **over** **the** lsaj **dog**  
+> thcrjuick brumcrnck jakps **over** **the** isaj **dog**  
+> thcrjuick brodcrrlk jywbs **over** thnl jaj **dog**  
+> **the** **quick** brean tnn jdxps **over** thcrzuuz **dog**  
+> (输出较多，中间省略了50行)  
+> **the** **quick** bresh **fox** **jumps** **over** **the** **lazy** **dog**  
+> **the** **quick** brooh **fox** **jumps** **over** **the** **lazy** **dog**  
+> **the** **quick** bresh **fox** **jumps** **over** **the** **lazy** **dog**  
+> **the** **quick** **brown** **fox** **jumps** **over** **the** **lazy** **dog**  
+
 最终结果: the quick brown fox jumps over the lazy dog
-```
+
 
 ## 适用条件
 
